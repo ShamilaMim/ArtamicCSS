@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* nav-navigation-allstyle */
+
+.nav-start-item{
+    width: 100vw;
+    height: 5rem;
+    display:flex;
+    justify-content: start;
+    align-items: center;
+   
+}
+.nav-middle-item{
+    width: 100vw;
+    height: 5rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.nav-end-item{
+    width: 100vw;
+    height: 5rem;
+    display:flex;
+    justify-content: end;
+    align-items: center;
+}
+/*all background color */
+/* RED COLOR */
+.bgred{
+    background-color: red;
+
+}
+.bgred-100{
+    background-color: #ee7c7c;
+   
+}
+.bgred-200{
+    background-color: #eb6969;
+}
+.bgred-300{
+    background-color: #f15f5f;
+}
+.bgred-400{
+    background-color: #f54444;
+}
+.bgred-500{
+    background-color: #f84242;
+}
+.bgred-600{
+    background-color: #fc3b3b;
+}
+.bgred-700{
+    background-color: #f03d3d;
+}
+.bgred-800{
+    background-color: #fa2727;
+}
+.bgred-900{
+    background-color: #ec1616;
+}
+.bgaliceblue{
+    background-color:aliceblue ;
+}
+/* GREEN COLOR */
+.bggreen{
+    background-color: green;
+}
+.bggreen-100{
+    background-color: rgb(112, 211, 112);
+}
+.bggreen-200{
+    background-color: rgb(96, 212, 96);
+}
+.bggreen-300{
+    background-color: rgb(102, 212, 102);
+}
+.bggreen-400{
+    background-color: rgb(90, 207, 90);
+}
+.bggreen-500{
+    background-color: rgb(62, 207, 62);
+}
+.bggreen-600{
+    background-color: rgb(57, 216, 57);
+}
+.bggreen-700{
+    background-color: rgb(47, 194, 47);
+}
+.bggreen-800{
+    background-color: rgb(33, 160, 33);
+}
+.bggreen-900{
+    background-color: rgba(16, 228, 16, 0.781);
+}
+
+span{
+    width: 1.875rem;
+    height: 1.875rem;
+    display: inline-block;
+    background-color: aquamarine;
+    margin: 0.7rem;
+
+}

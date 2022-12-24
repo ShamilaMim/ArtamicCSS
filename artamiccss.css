@@ -97,6 +97,43 @@
     background-color: rgba(16, 228, 16, 0.781);
 }
 
+
+/* ALL Border Radius */
+
+.br-10{
+    border-radius: 10%;
+
+}
+.br-25{
+    border-radius: 25%;
+}
+.br-50{
+     border-radius: 50%;
+}
+.br-75{
+    border-radius: 75%;
+}
+.br-100{
+    border-radius: 100%;
+}
+
+/* TOp LEFT BORDER RADIOUS */
+.br-tl-10{
+    border-top-left-radius: 10%;
+}
+.br-tl-25{
+    border-top-left-radius: 25%;
+}
+.br-tl-50{
+    border-top-left-radius: 50%;
+}
+.br-tl-75{
+    border-top-left-radius: 75%;
+}
+.br-tl-100{
+    border-top-left-radius: 100%;
+}
+
 span{
     width: 1.875rem;
     height: 1.875rem;

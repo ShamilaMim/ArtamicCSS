@@ -134,6 +134,52 @@
     border-top-left-radius: 100%;
 }
 
+/* All  border radious TOP-LEFT TOP-RIGHT */
+ .br-tl-tr-100{
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+ }
+
+ /* All border radious top-left bottom-right */
+
+ .br-tl-btr-25{
+    border-bottom-right-radius: 25%;
+    border-top-left-radius: 25%;
+ }
+
+ .br-tl-btr-100{
+    border-bottom-right-radius: 100%;
+    border-top-left-radius: 100%;
+ }
+
+ /* All border */
+ 
+ .b-solid-r-2{
+    border: 0.125rem solid rgb(175, 55, 55);
+
+ }
+ .b-dash-r-2{
+    border:0.125rem dashed red;
+ }
+ .b-dotted-g-2{
+    border: 0.125rem dotted green;
+ }
+ .b-double-y-2{
+    border: 0.125rem double rgb(243, 243, 101);
+ }
+ .b-groove-t-2{
+    border: 0.125rem groove rgb(51, 199, 150);
+ }
+ .b-ridge-b-2{
+    border: 0.125rem ridge rgb(63, 84, 201);
+ }
+ .b-inset-o-2{
+    border: 0.125rem inset rgb(231, 196, 39);
+ }
+ .b-outset-s-2{
+    border: 0.125rem outset rgb(128, 187, 241);
+ }
+
 span{
     width: 1.875rem;
     height: 1.875rem;
